@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhushanarth456@gmail.com**
 
-- 🌱 Projects available at <a href="https://nissharma.github.io">https://nissharma.github.io</a>
+- 🌱 Projects available at <a href="https://arthbh.github.io/">https://arthbh.github.io/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
